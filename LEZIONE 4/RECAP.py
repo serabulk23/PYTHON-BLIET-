@@ -11,3 +11,5 @@ print("Benvenuto", nomeUser)
 # funzione (argmoneto) --> tutto questo si chiama FIRMA del MEOTODO 
 cognomeUser= input("Scrivi il tuo cognome:")
 print("Il tuo cognome è", cognomeUser)
+
+#sto provando gitdesktop per vedere se si aggiorna
